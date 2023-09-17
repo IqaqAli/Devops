@@ -1,1 +1,1 @@
-# This is for Ansible play books directories
+# This is for Ansible play books
